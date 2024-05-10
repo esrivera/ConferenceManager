@@ -1,0 +1,30 @@
+# Directorios generados por el IDE
+.idea/
+
+# Directorios generados por Maven
+target/
+
+# Directorios generados por Gradle
+build/
+
+# Archivos generados por el compilador Java
+*.class
+
+# Archivos generados por el empaquetado
+*.war
+*.ear
+
+# Archivos de configuración de usuario (depende del IDE)
+*.iml
+*.ipr
+*.iws
+
+# Archivos de configuración de Eclipse
+.settings/
+
+# Archivos de caché y registros
+*.log
+logs/
+*.cache
+
+# Dependiendo de tu entorno de desarrollo y de construcción, es posible que necesites ajustar esta lista.
